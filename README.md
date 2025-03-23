@@ -61,8 +61,7 @@ Food waste is a growing global problem, impacting both **economies and sustainab
 ## **🚀 How to Run This Project**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/nabihahMP/food-waste-analysis.git
-cd food-waste-analysis
+https://github.com/nabihahMP/food-waste-analysis.git
 ```
 ### **2️⃣ Run the R Script**
 ```r
