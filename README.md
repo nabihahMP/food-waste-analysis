@@ -1,5 +1,7 @@
 ## **🥗 Global Food Waste Analysis (2018-2024)**
-📊 *Data-driven insights into food wastage, economic impact, and efficiency across countries*   
+📊 *Data-driven insights into food wastage, economic impact, and efficiency across countries*
+
+
 
 ---
 
@@ -10,11 +12,11 @@ Food waste is a growing global problem, impacting both **economies and sustainab
 ✅ **How has food waste changed over time?**  
 ✅ **Is there a correlation between total food waste and economic loss?**  
 ✅ **Which countries are most efficient (least waste per capita)?**  
-
+Live Dashboard: https://public.tableau.com/views/GlobalFoodWastageAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## **📂 Dataset**
-- **Source:** *Kaggle*  
+- **Source:** *Kaggle* (https://www.kaggle.com/datasets/atharvasoundankar/global-food-wastage-dataset-2018-2024)  
 - **File:** `global_food_wastage_dataset.csv`  
 - **Key Columns:**
   - `Country` → Name of the country  
@@ -28,7 +30,8 @@ Food waste is a growing global problem, impacting both **economies and sustainab
 ---
 
 ## **🛠 Tools & Technologies Used**
-- **📊 R** → Data analysis (`dplyr`, `ggplot2`)  
+- **📊 R** → Data analysis (`dplyr`, `ggplot2`)
+- Tableau  
 - **📂 GitHub** → Code hosting & project tracking  
 
 ---
